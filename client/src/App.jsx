@@ -1,8 +1,8 @@
 import { useState } from 'react';
 import './App.css';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import {Dashboard} from "./pages/dashIndex"
-import {Auth} from "./pages/authIndex"
+import {Dashboard} from "./pages/dashboard"
+import {Auth} from "./pages/auth"
 
 function App() {
   const [count, setCount] = useState(0);
