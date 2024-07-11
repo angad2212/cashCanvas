@@ -1,5 +1,5 @@
 const express = require('express');
-const {FinancialRecordModel} = require('./schema/financial-record');
+const FinancialRecordModel = require('../schema/financialRecord');
 
 const router = express.Router();
 router.get('/getAllByUserId/:userId', async (req,res)=>{

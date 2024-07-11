@@ -1,6 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const financialRecordRouter = require('./routes/financial-record')
+const financialRecordRouter = require('./routes/financialRecord')
 
 const app = express();
 const port = process.env.PORT || 3001;
