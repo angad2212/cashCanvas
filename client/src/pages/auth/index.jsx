@@ -2,7 +2,8 @@ import {
     SignedIn,
     SignedOut,
     SignInButton,
-    SignUpButton
+    SignUpButton,
+    UserButton
 } from "@clerk/clerk-react"
 //modal used for not redirecting the page
 import {Navigate} from 'react-router-dom'
