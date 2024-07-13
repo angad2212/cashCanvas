@@ -1,5 +1,16 @@
 # Cash Canvas
 
+## Screenshots
+
+![Dashboard](./cashCanvasPics/dashboard.png)
+*Dashboard Overview*
+
+![Expense Tracking](./cashCanvasPics/add.png)
+*Expense Tracking Page*
+
+![Dashboard](./cashCanvasPics/clerk.png)
+*clerk authentication*
+
 Cash Canvas is a personal finance management application that helps users track expenses, create budgets, and manage their finances effectively.
 
 ## Features
