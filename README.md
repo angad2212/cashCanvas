@@ -2,8 +2,7 @@
 
 ## Screenshots
 <img width="1280" alt="dashboard" src="https://github.com/user-attachments/assets/0c402a68-cbe5-4e07-95f4-5295aad1c6db">
-<img width="428" alt="clerk" src="https://github.com/user-attachments/assets/2f2e58b4-a5d8-4262-91cf-56c297d39c8e"> clerk here gives you an option of signing out
-
+<img width="428" alt="clerk" src="https://github.com/user-attachments/assets/2f2e58b4-a5d8-4262-91cf-56c297d39c8e"> 
 
 Cash Canvas is a personal finance management application that helps users track expenses, create budgets, and manage their finances effectively.
 
