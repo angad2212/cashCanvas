@@ -1,15 +1,10 @@
 # Cash Canvas
 
 ## Screenshots
+<img width="1280" alt="dashboard" src="https://github.com/user-attachments/assets/0c402a68-cbe5-4e07-95f4-5295aad1c6db">
+<img width="191" alt="add" src="https://github.com/user-attachments/assets/dd221353-fdfa-4d09-8f66-baf662637b4a">
+<img width="428" alt="clerk" src="https://github.com/user-attachments/assets/2f2e58b4-a5d8-4262-91cf-56c297d39c8e">
 
-![Dashboard](./cashCanvasPics/dashboard.png)
-*Dashboard Overview*
-
-![Expense Tracking](./cashCanvasPics/add.png)
-*Expense Tracking Page*
-
-![Dashboard](./cashCanvasPics/clerk.png)
-*clerk authentication*
 
 Cash Canvas is a personal finance management application that helps users track expenses, create budgets, and manage their finances effectively.
 
@@ -24,8 +19,8 @@ Cash Canvas is a personal finance management application that helps users track 
 ## Technologies Used
 
 - **Frontend**: React
-- **Styling**: Tailwind CSS
+- **Styling**: CSS
 - **Backend**: Node.js with Express.js
 - **Database**: MongoDB
-- **Authentication**: JWT (JSON Web Tokens)
+- **Authentication**: clerk authentication (google,gitHub)
 
