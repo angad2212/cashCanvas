@@ -9,7 +9,7 @@ const port = process.env.PORT || 3001;
 
 app.use(express.json());
 
-mongoose.connect('mongodb+srv://angad2212:iamADONIS3@cluster0.rjx9sao.mongodb.net/cashCanvas')
+mongoose.connect('mongodb+srv://angad2212:mongo123@cluster0.rjx9sao.mongodb.net/')
 
 app.use('/financial-records', financialRecordRouter)
 
